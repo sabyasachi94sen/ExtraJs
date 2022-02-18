@@ -1,0 +1,57 @@
+.ex-css{
+    color:aqua;
+}
+
+.box{
+
+    width:200px;
+    height: 200px;
+    border: 2px solid red;
+    margin: 20px;
+    padding: 20px;
+}
+
+.box1{
+    width:200px;
+    height: 200px;
+    border:10px groove hotpink;
+}
+
+.circle{
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: aqua;
+    margin-top: 20px;
+}
+
+
+.class-ex1{
+
+    border: 10px solid yellow;
+    width:200px;
+    height: 200px;
+    margin-top: 20px;
+
+}
+
+.class-ex2{
+
+    background-color: red;
+}
+
+#id-1{
+
+    border:10px dashed blue;
+    width:200px;
+    height:200px;
+    margin-top:20px;
+}
+
+#id-2{
+   background-color: brown;
+}
+
+body{
+    border:10px groove red;
+}

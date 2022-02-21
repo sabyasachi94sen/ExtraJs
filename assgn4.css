@@ -1,0 +1,88 @@
+.ex-ternal{
+
+    color:aqua;
+}
+
+.marg{
+    width:90%;
+    height:10vh;
+    background-color: red;
+    border:4px solid yellow;
+    margin: 10px;
+}
+
+.pad{
+
+    width:90%;
+    height:10vh;
+    background-color: red;
+    border:4px solid yellow;
+    padding: 30px;
+    margin-top: 10px;
+}
+
+.wrapper{
+    width:50%;;
+    height:120vh;
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+    align-items: center;
+
+}
+
+.box{
+
+    width:200px;
+    height: 200px;
+    background-color: aqua;
+}
+.inline-wrap{
+    width:100%;
+    height:15vh;
+    background-color: yellow;
+
+}
+
+.inline-box{
+
+    width:500px;
+    height:500px;
+    background-color: aqua;
+    display: inline;
+   
+}
+
+
+
+.block-box{
+
+    width:100px;
+    height:100px;
+    background-color: aqua;
+    margin-top: 10px;
+
+   
+}
+.block-wrap{
+
+    width:100%;
+    height:50vh;
+    background-color: yellow;
+}
+
+.inblock-box
+{
+    width:200px;
+    height:200px;
+    background-color: aqua;
+    display: inline-block;
+}
+
+.dbox{
+    width:100px;
+    height: 100px;
+    background-color:aqua;
+}

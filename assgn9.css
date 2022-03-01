@@ -1,0 +1,44 @@
+.hr-2{
+    margin-top: 500px;
+    width:70%;
+    height:2px;
+    background-color: yellow;
+}
+
+.hr-1{
+   
+    width:70%;
+    height:2px;
+    background-color: yellow;
+
+}
+
+.ball{
+
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    background-color: turquoise;
+    margin: auto;
+    animation-name: deep;
+    animation-duration: 1.2s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+     transition: all 1s;
+     position: relative;
+     top:-6px;
+}
+
+@keyframes deep{
+
+from{
+    top:-6px;
+
+
+}
+to{
+    top:500px;
+    background-color: orange;
+}
+}
